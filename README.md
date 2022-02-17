@@ -13,6 +13,6 @@ CURSOUDEMY\Node\05-clima-app>node index
   2. Historial
   0. Salir
 
-Versión: clima-app@0.1.3
+Versión: clima-app@1.1.3
 
 ```
