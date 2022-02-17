@@ -2,5 +2,7 @@
 
 node_modules/
 db/*.json
-# dotenv environment variables file
-.env
+
+# local env files
+*.env
+
